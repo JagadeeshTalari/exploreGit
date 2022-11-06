@@ -16,6 +16,12 @@
 3. Tracked/Untracked files
 4. Branch
 
+### Learning How to Clone a repo and push code into github from remote location (with different device).
+
+- We should use " git clone < url of repository >" to clone/fork a repo.
+- After that we can push the code to git hub.
+
+
 
 
 
