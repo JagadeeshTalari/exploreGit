@@ -22,6 +22,7 @@
 2. Clone
 3. Tracked/Untracked files
 4. Branch
+5. Staging
 
 ### Learning How to Clone a repo and push code into github from remote location (with different device).
 
@@ -29,6 +30,8 @@
 - After that we can push the code to git hub.
 
 
+### If we made changes in the code and messed it and now we want to get the file back to it's original state (which is in the github repo) i.e, simply undo the changes you have made to the code and bring it back to it's previous commited or pushed state then we should use...
 
+- git checkout -- < filename >
 
 
