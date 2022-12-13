@@ -38,6 +38,7 @@
 
 ### / if your didn't like your commit message or want to change your last commit message. Note: This can be done only for last commit only. Then ammend can be used.
 
+
 - git commit --ammend -m "Learned how to use ammend and added code"
 
 
