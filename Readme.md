@@ -37,7 +37,6 @@
 ### If you added the commit and you only made very few changes and don't want two seperate commit's and you want to include previous changes and the latest changes under one commit  (or)
 
 ### / if your didn't like your commit message or want to change your last commit message. Note: This can be done only for last commit only. Then ammend can be used.
-### If we made changes in the code and messed it and now we want to get the file back to it's original state (which is in the github repo) i.e, simply undo the changes you have made to the code and bring it back to it's previous commited or pushed state then we should use...
 
 
 - git commit --ammend -m "Learned how to use ammend and added code"
