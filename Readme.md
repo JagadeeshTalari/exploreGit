@@ -1,5 +1,12 @@
 # Practicing and Learning Git 
 
+### To find where git installed: 
+- where git for windows &
+- which git for Mac
+
+### To find which version of git is installed on your system:
+- git --version
+
 ### To give UserName & email :
 - git config --global user.name "Jagadeesh"
 - git config --global user.email "talarijagadeesh55@gmail.com"
