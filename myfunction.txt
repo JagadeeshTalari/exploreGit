@@ -1,6 +1,3 @@
 firstfunction - I have added a first function
 secondfunction - I have added second function
 thirdfunction - I have added third function
-
-new function - new function added
-newer function - another newer function added

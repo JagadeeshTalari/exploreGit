@@ -42,3 +42,8 @@
 - git commit --ammend -m "Learned how to use ammend and added code"
 
 
+### if we want get the file version of previous commit's then we should use checkout < commit SHA > -- < fileName >
+
+- git checkout  bd1d55f -- myfunction.txt
+- git diff --staged
+- git reset HEAD myfunction.txt
