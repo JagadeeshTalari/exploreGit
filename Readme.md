@@ -47,3 +47,11 @@
 - git checkout  bd1d55f -- myfunction.txt
 - git diff --staged
 - git reset HEAD myfunction.txt
+
+
+-git rm --cached my.php
+
+-newfolder with no files in it then git will not keep track of that 
+solution for it is :
+- .gitkeep (invisible)
+- simple.txt (visible)
