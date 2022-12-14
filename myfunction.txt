@@ -1,1 +1,3 @@
 firstfunction - I have added a first function
+secondfunction - I have added second function
+thirdfunction - I have added third function
