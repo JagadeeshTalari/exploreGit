@@ -61,3 +61,9 @@ solution for it is :
 - git ls-tree < HEAD/master/ SHA no. / HEAD~2 / etc >
 
 To see the what are the files included at that stage
+
+
+- git log --oneline
+- git log --format=oneline
+- git log --format=fuller
+- git log --format=
