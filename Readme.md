@@ -55,3 +55,9 @@
 solution for it is :
 - .gitkeep (invisible)
 - simple.txt (visible)
+
+
+
+- git ls-tree < HEAD/master/ SHA no. / HEAD~2 / etc >
+
+To see the what are the files included at that stage
